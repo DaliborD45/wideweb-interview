@@ -1,0 +1,189 @@
+{
+  "todos": [
+    {
+      "id": "3",
+      "title": "Team Meeting",
+      "description": "Attend team meeting",
+      "created_at": "2024-06-02 11:30:00",
+      "deadline_date": "2024-06-03",
+      "completed": true,
+      "todolistId": "1"
+    },
+    {
+      "id": "9",
+      "title": "Exercise",
+      "description": "Exercise",
+      "created_at": "2024-06-09 17:00:00",
+      "deadline_date": "2024-06-09",
+      "completed": true,
+      "todolistId": "1"
+    },
+    {
+      "id": "12",
+      "title": "Presentation Preparation",
+      "description": "Prepare presentation",
+      "created_at": "2024-06-12 10:00:00",
+      "deadline_date": "2024-06-14",
+      "completed": false,
+      "todolistId": "2"
+    },
+    {
+      "id": "6",
+      "title": "Pay Bills",
+      "description": "Pay utility bills",
+      "created_at": "2024-06-06 14:00:00",
+      "deadline_date": "2024-06-06",
+      "completed": true,
+      "todolistId": "1"
+    },
+    {
+      "id": "5",
+      "title": "Trip Planning",
+      "description": "Plan weekend trip",
+      "created_at": "2024-06-05 13:00:00",
+      "deadline_date": "2024-06-10",
+      "completed": false,
+      "todolistId": "1"
+    },
+    {
+      "id": "19",
+      "title": "Finish Reading Book",
+      "description": "Finish reading a book",
+      "created_at": "2024-06-19 17:00:00",
+      "deadline_date": "2024-06-21",
+      "completed": true,
+      "todolistId": "2"
+    },
+    {
+      "id": "2",
+      "title": "Project Report",
+      "description": "Complete project report",
+      "created_at": "2024-06-02 10:00:00",
+      "deadline_date": "2024-06-05",
+      "completed": false,
+      "todolistId": "1"
+    },
+    {
+      "id": "7",
+      "title": "Dentist Appointment",
+      "description": "Schedule dentist appointment",
+      "created_at": "2024-06-07 15:00:00",
+      "deadline_date": "2024-06-15",
+      "completed": false,
+      "todolistId": "1"
+    },
+    {
+      "id": "20",
+      "title": "Backup Data",
+      "description": "Backup important data",
+      "created_at": "2024-06-20 18:00:00",
+      "deadline_date": "2024-06-22",
+      "completed": false,
+      "todolistId": "2"
+    },
+    {
+      "id": "1",
+      "title": "Grocery Shopping",
+      "description": "Buy groceries",
+      "created_at": "2024-06-01 09:00:00",
+      "deadline_date": "2024-06-02",
+      "completed": false,
+      "todolistId": "1"
+    },
+    {
+      "id": "11",
+      "title": "Submit Assignment",
+      "description": "Submit assignment",
+      "created_at": "2024-06-11 09:00:00",
+      "deadline_date": "2024-06-13",
+      "completed": false,
+      "todolistId": "2"
+    },
+    {
+      "id": "13",
+      "title": "Client Meeting",
+      "description": "Meet with client",
+      "created_at": "2024-06-13 11:00:00",
+      "deadline_date": "2024-06-13",
+      "completed": true,
+      "todolistId": "2"
+    },
+    {
+      "id": "18",
+      "title": "Car Maintenance",
+      "description": "Take car for maintenance",
+      "created_at": "2024-06-18 16:00:00",
+      "deadline_date": "2024-06-20",
+      "completed": false,
+      "todolistId": "2"
+    },
+    {
+      "id": "4",
+      "title": "Call Plumber",
+      "description": "Call the plumber",
+      "created_at": "2024-06-04 12:00:00",
+      "deadline_date": "2024-06-04",
+      "completed": false,
+      "todolistId": "1"
+    },
+    {
+      "id": "14",
+      "title": "Grocery Shopping",
+      "description": "Buy groceries",
+      "created_at": "2024-06-14 12:00:00",
+      "deadline_date": "2024-06-15",
+      "completed": false,
+      "todolistId": "2"
+    },
+    {
+      "id": "15",
+      "title": "Weekly Review",
+      "description": "Conduct weekly review",
+      "created_at": "2024-06-15 13:00:00",
+      "deadline_date": "2024-06-15",
+      "completed": true,
+      "todolistId": "2"
+    },
+    {
+      "id": "16",
+      "title": "Call Family",
+      "description": "Call family members",
+      "created_at": "2024-06-16 14:00:00",
+      "deadline_date": "2024-06-16",
+      "completed": false,
+      "todolistId": "2"
+    },
+    {
+      "id": "8",
+      "title": "Reading",
+      "description": "Read a book",
+      "created_at": "2024-06-08 16:00:00",
+      "deadline_date": "2024-06-12",
+      "completed": true,
+      "todolistId": "1"
+    },
+    {
+      "id": "17",
+      "title": "Workout",
+      "description": "Complete workout session",
+      "created_at": "2024-06-17 15:00:00",
+      "deadline_date": "2024-06-17",
+      "completed": true,
+      "todolistId": "2"
+    }
+  ],
+  "todolists": [
+    {
+      "name": "TODO 1",
+      "id": "1"
+    },
+    {
+      "name": "TODO 2",
+      "id": "2"
+    },
+    {
+      "id": "344",
+      "name": "Todo 3"
+    }
+  ]
+}
